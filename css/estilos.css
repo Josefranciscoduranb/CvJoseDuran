@@ -1,0 +1,164 @@
+html {
+    background-color: rgb(235, 232, 232);
+}
+
+body {
+    background-color: rgb(235, 232, 232);
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 0.1em;
+}
+
+#section-left {
+    text-align: center;
+    width: 30%;
+    float: left;
+    height: 1700px;
+    background-color: rgb(39, 39, 38);
+    color: rgb(235, 232, 232);
+}
+
+.nombre {
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+}
+
+.profesion {
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+}
+
+#mi_foto img {
+    width: 70%;
+    height: auto;
+    margin: auto;
+    display: block;
+    margin-top: 8%;
+    border-radius: 50%;
+    margin-bottom: 5%;
+}
+
+#Acámica img {
+    width: 40%;
+    height: auto;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+    padding: 2%;
+    margin-top: 10%;
+}
+
+#UCES img {
+    width: 40%;
+    height: auto;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+    margin-right: 5%;
+    margin-left: 5%;
+    float: left;
+}
+
+#UNELLEZ img {
+    width: 40%;
+    height: auto;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+    margin-bottom: 10%;
+}
+
+#section-right {
+    width: 70%;
+    float: right;
+}
+
+.wrapper {
+    padding: 0% 5% 5% 5%;
+}
+
+.fa {
+    margin-right: 2%;
+}
+
+#contact {
+    line-height: 200%;
+    margin-top: 37%;
+}
+
+.wrapper .title {
+    font-size: 180%;
+    margin-top: 5%;
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+    border-bottom: 2px solid rgb(39, 39, 38); 
+}
+
+.linkedin a {
+    text-decoration: none;
+    color: rgb(235, 232, 232);
+}
+
+.email a {
+    text-decoration: none;
+    color: rgb(235, 232, 232);
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 125%;
+    letter-spacing: 0.1em;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-weight: normal;
+    line-height: 1%;
+    font-size: 105%;
+    letter-spacing: 0.1em;
+}
+
+ul {
+    line-height: 200%;
+    text-align: justify;
+}
+
+ul li img {
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+
+p {
+    text-align: justify;
+}
+
+.portfolio ul {
+    list-style: none;
+
+}
+
+#menu-navegacion ul {
+    list-style: none;
+    text-align: center;
+    margin-bottom: 14%;
+    margin-top: 10%;
+}
+
+#menu-navegacion ul li {
+    border-bottom: 0.7px solid rgb(235, 232, 232);
+    width: 90%;
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+}
+
+#menu-navegacion ul li:hover{
+    background-color: rgb(80, 131, 188);
+}
+
+#menu-navegacion ul li a {
+    color: rgb(235, 232, 232);
+    list-style: none;
+    text-decoration: none;
+}
+
