@@ -1,15 +1,15 @@
 html {
-    background-color: gray;
+    background-color: rgb(235, 232, 232);
 }
 
 body {
-    background-color:black;
+    background-color: rgb(235, 232, 232);
     font-family: 'Lato', sans-serif;
     letter-spacing: 0.1em;
 }
 
 #section-left {
-    text-align: left;
+    text-align: center;
     width: 30%;
     float: left;
     height: 1700px;
@@ -19,12 +19,12 @@ body {
 
 .nombre {
     font-variant: small-caps;
-    letter-spacing: 0.7em;
+    letter-spacing: 0.1em;
 }
 
 .profesion {
     font-variant: small-caps;
-    letter-spacing: 0.7em;
+    letter-spacing: 0.1em;
 }
 
 #mi_foto img {
